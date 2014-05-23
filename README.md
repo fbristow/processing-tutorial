@@ -1,16 +1,17 @@
 Manitoba High School Computer Science Day
------------------------------------------
+=========================================
+
 The Manitoba High School Computer Science Day will be held on Friday, May 23, 2014 in the Department of Computer Science at the University of Manitoba.
 
 You can find more information about Manitoba High School Computer Science Day on the University of Manitoba Department of Computer Science web site: http://www.cs.umanitoba.ca/highschool/
 
 Processing Tutorial
-===================
+-------------------
 
 [Processing](http://processing.org/) is a [Domain-Specific Language](http://en.wikipedia.org/wiki/Domain_specific_language) (DSL) for visualization built on top of the [Java programming-language](http://java.oracle.com/). That means that if you already know Java, or another C-like language, then you already know how to use the most basic functionality of Processing.
 
 The Processing Environment
-==========================
+--------------------------
 
 You can use any text-editor to write a Processing program, but the recommended way to write a Processing language is using the Sketchbook environment:
 
@@ -22,7 +23,8 @@ Using the sketchbook is easy:
 2. You click on the Play button (![Play button](play-button.png)).
 
 Writing a Processing Program
-============================
+----------------------------
+
 Processing is built on top of Java, but does not require you to write a `class`, or a `main` method. Instead, Processing works by calling methods with certain names:
 
 1. The `setup` method is called once, when the program starts.
@@ -145,7 +147,8 @@ Processing also sets certain global variables for you to use within the draw met
 * `mouseY`: the `y` coordinate of the mouse on the window.
 
 Example Exercises
-=================
+-----------------
+
 You can find some example exercises at the links below. The examples are `pde` files (plain-text) that you can open with the Processing sketchbook (or any text editor).
 
 * [Boo Follow](boo_follow): A little game where boo follows your mouse around.
@@ -156,7 +159,8 @@ You can find some example exercises at the links below. The examples are `pde` f
 * [Floppy Bird](floppy_bird): A primitive clone of Flappy Bird.
 
 Additional Resources
-====================
+--------------------
+
 The Processing environment is supported by a huge community of people. You can find many resources on the freely available on the web for learning Processing:
 
 * http://processing.org/ The Processing website.
