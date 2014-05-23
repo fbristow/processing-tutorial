@@ -121,6 +121,7 @@ Much nicer.
 ### Useful Methods
 Processing has a variety of methods that you can call from any of the methods in the sketchpad. Here is a limited selection of the useful methods that you can call in the draw method:
 
+* `println`: prints messages to the console, just below the text-editor in the sketchpad.
 * `stroke`: changes the colour of a point, and the line colour of shapes. Example: `stroke(47, 47, 47);`
 * `point`: draws a single pixel on the window at an `x` and `y` coordinate. Example: `point(300, 300);
 * `text`: draws text onto the window, takes a `String` and an `x` and `y` coordinate as arguments. Example: `text("Hello, world!", 300, 300);`
