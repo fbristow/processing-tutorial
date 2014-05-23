@@ -1,5 +1,8 @@
-Manitoba High-School Computer Science Day
+Manitoba High School Computer Science Day
 -----------------------------------------
+The Manitoba High School Computer Science Day will be held on Friday, May 23, 2014 in the Department of Computer Science at the University of Manitoba.
+
+You can find more information about Manitoba High School Computer Science Day on the University of Manitoba Department of Computer Science web site: http://www.cs.umanitoba.ca/highschool/
 
 Processing Tutorial
 ===================
