@@ -139,3 +139,24 @@ Processing also sets certain global variables for you to use within the draw met
 
 * `mouseX`: the `x` coordinate of the mouse on the window.
 * `mouseY`: the `y` coordinate of the mouse on the window.
+
+Example Exercises
+=================
+You can find some example exercises at the links below. The examples are `pde` files (plain-text) that you can open with the Processing sketchbook (or any text editor).
+
+* [Boo Follow](boo_follow): A little game where boo follows your mouse around.
+* [Craxy Boxes](crazy_boxes): Drawing and translating cubes.
+* [Pointillism](pointillism): Loading of images and re-drawing them with ellipses (sort of like [pointillism](http://en.wikipedia.org/wiki/Pointillism) by Georges Seurat).
+* [Polar Coordinates](polar_coordinates): Drawing a polar rose with the `point` method.
+* [Pulse Cube](pulse_cube): A cube that pulses in-and-out and follows your cursor.
+* [Floppy Bird](floppy_bird): A primitive clone of Flappy Bird.
+
+Additional Resources
+====================
+The Processing environment is supported by a huge community of people. You can find many resources on the freely available on the web for learning processing:
+
+* http://processing.org/ The processing website.
+    * http://processing.org/reference/ The processing reference guide.
+* http://openprocessing.org/ An online repository of high-quality processing examples
+
+You can also find a many examples built-into the Processing sketchpad by clicking on **File** > **Examples...**.
