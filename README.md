@@ -15,7 +15,7 @@ You can use any text-editor to write a Processing program, but the recommended w
 
 Using the sketchbook is easy:
 
-1. You write your processing program in the text-editor area.
+1. You write your Processing program in the text-editor area.
 2. You click on the Play button (![Play button](play-button.png)).
 
 Writing a Processing Program
@@ -153,10 +153,10 @@ You can find some example exercises at the links below. The examples are `pde` f
 
 Additional Resources
 ====================
-The Processing environment is supported by a huge community of people. You can find many resources on the freely available on the web for learning processing:
+The Processing environment is supported by a huge community of people. You can find many resources on the freely available on the web for learning Processing:
 
-* http://processing.org/ The processing website.
-    * http://processing.org/reference/ The processing reference guide.
-* http://openprocessing.org/ An online repository of high-quality processing examples
+* http://processing.org/ The Processing website.
+    * http://processing.org/reference/ The Processing reference guide.
+* http://openprocessing.org/ An online repository of high-quality Processing examples
 
 You can also find a many examples built-into the Processing sketchpad by clicking on **File** > **Examples...**.
