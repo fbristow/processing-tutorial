@@ -2,7 +2,7 @@ PImage pic;
 int step = 20;
 boolean up = false;
 void setup() {
-  pic = loadImage("http://bobolink.cs.umanitoba.ca/~fbristow/processing/MaximumSatisfaction.jpg");
+  pic = loadImage("https://raw.githubusercontent.com/fbristow/processing-tutorial/master/images/MaximumSatisfaction.jpg");
   size(pic.width, pic.height);
   smooth();
 }
