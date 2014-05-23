@@ -13,8 +13,8 @@ void setup() {
   targetX = random(600);
   targetY = random(600);
   
-  boo = loadImage("http://bobolink.cs.umanitoba.ca/~fbristow/processing/AwesomeBoo.png");
-  boo2 = loadImage("http://bobolink.cs.umanitoba.ca/~fbristow/processing/AwesomeBooReverse.png");
+  boo = loadImage("https://raw.githubusercontent.com/fbristow/processing-tutorial/master/images/AwesomeBoo.png");
+  boo2 = loadImage("https://raw.githubusercontent.com/fbristow/processing-tutorial/master/images/AwesomeBooReverse.png");
 }
 
 void draw() {
